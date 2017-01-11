@@ -3,5 +3,8 @@ background: tomato;
 }
 
 p {
-color: green;
+color: white;
+font-size: 2em;
+padding: 50px;
+text-align: center;  
 }
